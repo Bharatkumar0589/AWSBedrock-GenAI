@@ -12,7 +12,7 @@
     "contentType": "application/json",
     "accept": "application/json",
     "body": "{\"prompt\":\"this is where you place your input text\",\"maxTokens\":200,\"temperature\":0.8,\"topP\":0.9,\"stopSequences\":[],\"countPenalty\":{\"scale\":0},\"presencePenalty\":{\"scale\":0},\"frequencyPenalty\":{\"scale\":0}}"
-  },
+  }
 
 {
     "modelId": "stability.stable-diffusion-xl-v1",

@@ -2,5 +2,6 @@ boto3
 awscli
 pypdf
 langchain
+langchain_community
 streamlit
 faiss-cpu
